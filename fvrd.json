@@ -1,2 +1,20 @@
 
-[{'arb': '{aze_hash}', 'arb24': '{aze_hash}', 'arbgunes': '{aze_hash}', 'atvaz': '{aze_hash}', 'azstar': '{aze_hash}', 'cbcsport': '{aze_hash}', 'eltv': '{aze_hash}', 'space': '{aze_hash}', 'kanals': '{aze_hash}', 'dunya': '{aze_hash}', 'beyaztv': '{aze_hash}', 'crtntwrk': '{aze_hash}', 'dmax': '{aze_hash}', 'fox': '{aze_hash}', 'tivibuspor': '{aze_hash}', 'tlc': '{aze_hash}', 'beinsports_haber': '{aze_hash}'}]
+{
+  "arb": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "arb24": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "arbgunes": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "atvaz": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "azstar": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "cbcsport": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "eltv": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "space": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "kanals": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "dunya": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "beyaztv": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "crtntwrk": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "dmax": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "fox": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "tivibuspor": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "tlc": "e12ac096d2694d7d8cc3a12f1191fcf7",
+  "beinsports_haber": "e12ac096d2694d7d8cc3a12f1191fcf7",
+}
